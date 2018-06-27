@@ -159,6 +159,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Card.cpp" />
     <ClCompile Include="DOMDraftApp.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -416,6 +417,9 @@
     <Image Include="DOMScans\mountain.jpg" />
     <Image Include="DOMScans\plains.jpg" />
     <Image Include="DOMScans\swamp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

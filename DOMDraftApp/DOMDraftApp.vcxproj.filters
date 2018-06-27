@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\DOMScans">
+    <Filter Include="Resource Files\DOMScans">
       <UniqueIdentifier>{d7da4bb7-2964-44e7-acc0-91f44f541f26}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -21,769 +21,777 @@
     <ClCompile Include="DOMDraftApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="DOMScans\001.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\002.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\003.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\004.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\005.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\006.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\007.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\008.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\009.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\010.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\011.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\012.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\013.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\014.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\015.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\016.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\017.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\018.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\019.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\020.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\021.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\022.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\023.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\024.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\025.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\026.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\027.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\028.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\029.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\030.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\031.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\032.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\033.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\034.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\035.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\036.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\037.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\038.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\039.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\040.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\041.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\042.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\043.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\044.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\045.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\046.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\047.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\048.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\049.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\050.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\051.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\052.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\053.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\054.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\055.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\056.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\057.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\058.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\059.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\060.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\061.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\062.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\063.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\064.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\065.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\066.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\067.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\068.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\069.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\070.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\071.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\072.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\073.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\074.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\075.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\076.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\077.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\078.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\079.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\080.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\081.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\082.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\083.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\084.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\085.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\086.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\087.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\088.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\089.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\090.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\091.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\092.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\093.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\094.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\095.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\096.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\097.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\098.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\099.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\100.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\101.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\102.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\103.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\104.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\105.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\106.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\107.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\108.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\109.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\110.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\111.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\112.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\113.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\114.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\115.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\116.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\117.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\118.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\119.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\120.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\121.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\122.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\123.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\124.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\125.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\126.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\127.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\128.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\129.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\130.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\131.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\132.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\133.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\134.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\135.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\136.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\137.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\138.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\139.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\140.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\141.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\142.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\143.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\144.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\145.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\146.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\147.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\148.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\149.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\150.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\151.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\152.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\153.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\154.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\155.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\156.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\157.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\158.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\159.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\160.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\161.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\162.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\163.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\164.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\165.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\166.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\167.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\168.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\169.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\170.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\171.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\172.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\173.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\174.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\175.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\176.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\177.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\178.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\179.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\180.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\181.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\182.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\183.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\184.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\185.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\186.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\187.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\188.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\189.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\190.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\191.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\192.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\193.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\194.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\195.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\196.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\197.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\198.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\199.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\200.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\201.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\202.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\203.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\204.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\205.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\206.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\207.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\208.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\209.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\210.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\211.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\212.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\213.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\214.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\215.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\216.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\217.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\218.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\219.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\220.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\221.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\222.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\223.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\224.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\225.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\226.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\227.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\228.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\229.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\230.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\231.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\232.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\233.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\234.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\235.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\236.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\237.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\238.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\239.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\240.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\241.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\242.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\243.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\244.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\245.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\246.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\247.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\248.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\249.full.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\forest.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\island.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\mountain.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\plains.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
     <Image Include="DOMScans\swamp.jpg">
-      <Filter>Source Files\DOMScans</Filter>
+      <Filter>Resource Files\DOMScans</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
