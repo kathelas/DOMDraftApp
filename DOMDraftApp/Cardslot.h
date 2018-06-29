@@ -10,6 +10,7 @@ public:
 		card( inputcard )
 	{
 		sprite.setTexture( card.GetTexture() );
+		sprite.setScale( scale, scale );
 	}
 
 	void SetSpritePos( float x, float y )
@@ -26,6 +27,8 @@ public:
 		return sprite;
 	}
 
+
+	static constexpr float scale = 0.5f;
 private:
 	Card& card;
 	sf::Sprite sprite;

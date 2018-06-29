@@ -12,7 +12,7 @@ public:
 
 
 
-
+	static constexpr int cardwidth = 205;
 private:
 	sf::Texture text;
 	unsigned char id = 0;
