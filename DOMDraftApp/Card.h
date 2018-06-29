@@ -8,14 +8,13 @@ public:
 
 	unsigned char GetID() const;
 
-	const sf::Sprite& GetSprite() const;
+	const sf::Texture& GetTexture() const;
 
 
 
 
 private:
 	sf::Texture text;
-	sf::Sprite sprite;
 	unsigned char id = 0;
 
 };

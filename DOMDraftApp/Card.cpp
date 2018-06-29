@@ -27,7 +27,6 @@ Card::Card( int number )
 		text.loadFromFile( "DOMScans\\" + numberstring + ".full.jpg" );
 	}
 
-	sprite.setTexture( text );
 
 }
 
@@ -36,7 +35,7 @@ unsigned char Card::GetID() const
 	return id;
 }
 
-const sf::Sprite& Card::GetSprite() const
+const sf::Texture& Card::GetTexture() const
 {
-	return sprite;
+	return text;
 }
