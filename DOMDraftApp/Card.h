@@ -13,6 +13,8 @@ public:
 
 
 	static constexpr int cardwidth = 205;
+	static constexpr int cardheight = 294;
+
 private:
 	sf::Texture text;
 	unsigned char id = 0;

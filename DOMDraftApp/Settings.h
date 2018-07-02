@@ -17,7 +17,7 @@ public:
 
 
 private:
-	int windowwidth = 800;
+	int windowwidth = 1200;
 	int windowheight = 600;
 
 };
