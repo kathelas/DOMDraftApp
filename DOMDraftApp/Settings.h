@@ -17,7 +17,7 @@ public:
 
 
 private:
-	int windowwidth = 1200;
-	int windowheight = 600;
+	const int windowwidth = 1200;
+	const int windowheight = 600;
 
 };
