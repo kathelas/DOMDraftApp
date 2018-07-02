@@ -5,11 +5,7 @@
 class App
 {
 public:
-	App( sf::RenderWindow& window, std::vector<Cardslot>& cardslots )
-		:
-		window( window ),
-		cardslots( cardslots )
-	{}
+	App( sf::RenderWindow& window, std::vector<Cardslot>& cardslots );
 
 	void ProcessEvents();
 	void DrawGfx();
