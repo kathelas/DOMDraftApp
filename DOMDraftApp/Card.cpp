@@ -39,3 +39,8 @@ const sf::Texture& Card::GetTexture() const
 {
 	return text;
 }
+
+Card::Rarity Card::GetRarity() const
+{
+	return rarity;
+}

@@ -23,6 +23,5 @@ private:
 
 	std::vector<Cardslot> cardslots;
 	std::vector<Card> allcards;
-	std::vector<Card&> rares;
-
+	std::vector<Card*> rares;
 };

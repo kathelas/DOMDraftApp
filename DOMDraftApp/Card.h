@@ -3,12 +3,22 @@
 
 class Card
 {
+	enum class Rarity
+	{
+		Common,
+		Uncommun,
+		Rare,
+		Mythic
+
+
+	};
 public:
 	Card( int number );
 
 	unsigned char GetID() const;
 
 	const sf::Texture& GetTexture() const;
+	Rarity GetRarity() const;
 
 
 
@@ -18,6 +28,8 @@ public:
 private:
 	sf::Texture text;
 	unsigned char id = 0;
+
+	Rarity rarity;
 
 
 };
