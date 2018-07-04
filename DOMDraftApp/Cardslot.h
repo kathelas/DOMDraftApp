@@ -28,7 +28,7 @@ public:
 	}
 
 
-	static constexpr float scale = 0.75f;
+	static constexpr float scale = 1.0f;
 private:
 	Card& card;
 	sf::Sprite sprite;

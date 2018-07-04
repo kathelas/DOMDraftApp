@@ -4,11 +4,11 @@ class Settings
 {
 	//scans location, cardsize, windowsize, etc.
 public:
-	int GetWidth()
+	int GetWidth() const
 	{
 		return windowwidth;
 	}
-	int GetHeight()
+	int GetHeight() const
 	{
 		return windowheight;
 	}
@@ -17,7 +17,7 @@ public:
 
 
 private:
-	const int windowwidth = 1200;
-	const int windowheight = 600;
+	const int windowwidth = 1400;
+	const int windowheight = 900;
 
 };

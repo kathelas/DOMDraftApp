@@ -19,4 +19,5 @@ private:
 	sf::Texture text;
 	unsigned char id = 0;
 
+
 };
