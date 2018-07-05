@@ -44,3 +44,23 @@ Card::Rarity Card::GetRarity() const
 {
 	return rarity;
 }
+
+bool Card::IsLegCreat() const
+{
+	return legCreat;
+}
+
+Card::Color Card::GetColor1() const
+{
+	return color1;
+}
+
+Card::Color Card::GetColor2() const
+{
+	return color2;
+}
+
+Card::Color Card::GetColor3() const
+{
+	return color3;
+}
