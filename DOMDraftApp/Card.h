@@ -22,6 +22,7 @@ public:
 	unsigned char GetID() const;
 
 	const sf::Texture& GetTexture() const;
+
 	Rarity GetRarity() const;
 	bool IsLegCreat() const;
 
