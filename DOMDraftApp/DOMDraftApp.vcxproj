@@ -423,6 +423,7 @@
     <ClInclude Include="App.h" />
     <ClInclude Include="Card.h" />
     <ClInclude Include="Cardslot.h" />
+    <ClInclude Include="Pack.h" />
     <ClInclude Include="Settings.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
