@@ -4,7 +4,6 @@
 App::App( sf::RenderWindow& window, Settings& settings )
 	:
 	window( window ),
-	cardslots( cardslots ),
 	settings( settings )
 {
 

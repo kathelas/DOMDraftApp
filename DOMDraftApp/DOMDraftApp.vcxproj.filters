@@ -16,6 +16,9 @@
     <Filter Include="Resource Files\DOMScans">
       <UniqueIdentifier>{d7da4bb7-2964-44e7-acc0-91f44f541f26}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\SetData">
+      <UniqueIdentifier>{f768a861-e8ae-4d62-826f-37a1c220370b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DOMDraftApp.cpp">
@@ -808,5 +811,13 @@
     <ClInclude Include="Pack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SetData\DOM.json">
+      <Filter>Resource Files\SetData</Filter>
+    </None>
+    <None Include="SetData\M19.json">
+      <Filter>Resource Files\SetData</Filter>
+    </None>
   </ItemGroup>
 </Project>

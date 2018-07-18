@@ -1,9 +1,11 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 #include <cassert>
+#include <nlohmann/json.hpp>
 #include "Card.h"
 #include "Cardslot.h"
 #include "Settings.h"
+
 
 class App
 {
