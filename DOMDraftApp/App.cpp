@@ -1,4 +1,5 @@
 #include "App.h"
+#include <fstream>
 
 
 App::App( sf::RenderWindow& window, Settings& settings )
@@ -31,6 +32,24 @@ App::App( sf::RenderWindow& window, Settings& settings )
 		assert( y >= 0 && y <= settings.GetHeight() + (Card::cardheight * Cardslot::scale) );
 		cardslots[i].SetSpritePos( (float)x, (float)y );
 	}
+
+	/*
+	using json = nlohmann::json;
+
+	json j;
+	std::ifstream stream ("SetData\\DOM.json");
+	stream >> j;
+
+	if( j.find( "cards" ) != j.end() )
+	{
+		auto it = j.find( "cards" );
+		int x = it.value()[0].find( "multiverseid" ).value();
+
+	}
+	*/
+
+
+
 }
 
 void App::ProcessEvents()
